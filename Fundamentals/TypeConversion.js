@@ -11,6 +11,7 @@ console.log(inputYear+20);
 console.log(Number(inputYear)+20);
 
 console.log(Number('Bappa'));
+console.log(String(10));
 
 console.log(typeof(NaN))
 
